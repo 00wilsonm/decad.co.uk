@@ -109,7 +109,7 @@
 </div>
 
 {{-- Terms of Service Modal --}}
-<div id="modal-terms" class="fixed inset-0 z-50 hidden flex items-center justify-center" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modal-terms-title">
+<div id="modal-terms" class="fixed inset-0 z-50 flex items-center justify-center hidden" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="modal-terms-title">
     <div class="absolute inset-0 bg-black/70 backdrop-blur-sm modal-backdrop" data-close="modal-terms"></div>
     <div class="relative bg-white rounded-lg shadow-2xl w-full max-w-3xl max-h-[85vh] m-4 flex flex-col">
         <div class="flex items-center justify-between p-6 border-b border-gray-200">
